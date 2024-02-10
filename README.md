@@ -20,9 +20,6 @@ Lab 7: Finite State Machines
 Lab 8: Finite State Machines II
 
 Lab 9: FSMD Circuits
- 
- 
-Lecture Website: http://eem.eskisehir.edu.tr/Ders.aspx?dersId=85
 
 # Our Board:
 
